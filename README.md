@@ -29,7 +29,6 @@ Predict daily excess returns of US & Indian stocks using machine learning and cr
 ## Tech Stack
 Python, pandas, numpy, scikit-learn, xgboost, yfinance, matplotlib, Google Colab
 
-## How to Run
-1. Install dependencies: `pip install -r requirements.txt`  
-2. Open `finance_ml_project.ipynb` in Google Colab  
-3. Run all cells sequentially  
+## How to Run 
+ Open `finance_ml_project.ipynb` in Google Colab  
+ Run all cells sequentially  
